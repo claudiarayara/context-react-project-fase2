@@ -1,7 +1,6 @@
 ## Nome: `Claudia Rayara Alves da Silva`
-https://github.com/claudiarayara/context-react-project-fase2
-
 ### Desenvolvimento de Sistemas Front-End: Escritório de Projetos - Fase 2;
+
 Para este projeto é necessário fazer uso da API hotwheels-api que se encontra em: https://github.com/adsPucrsOnline/DesenvolvimentoFrontend/
 ### *1. Para executar a API:*
 - Clone o repositório localmente;
