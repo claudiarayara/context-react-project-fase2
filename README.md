@@ -59,10 +59,8 @@ Este projeto oferece uma visão prática do desenvolvimento de uma aplicação f
 ![AddCarro](https://github.com/user-attachments/assets/54fd074a-d9e0-4b4c-977b-0467b06c2f9c)
 ![ExcluirCarro](https://github.com/user-attachments/assets/b92aae8c-dc24-4754-904e-fcde5112e148)
 
-<div align="center">
 ![CelHomeSobre](https://github.com/user-attachments/assets/68e0fc9a-4029-4784-9318-77466953aea9) ![CelLista](https://github.com/user-attachments/assets/efdc67bc-1bab-4762-8b95-b1e30ce47fdf) \
 ![CelAddEditExc](https://github.com/user-attachments/assets/400ca866-5209-43cb-848e-4442b9a1b5e9) ![CelPesquisa](https://github.com/user-attachments/assets/3a402c83-292b-4004-a431-3709d2581c64)
-</div>
 
 
 
