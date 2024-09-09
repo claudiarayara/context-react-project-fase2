@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --fonte: "Outfit", sans-serif;
+  --fonte-titulo: "Luckiest Guy", system-ui;
+}
+
+body {
+  font-family: var(--fonte);
+  font-size: 1.2rem;
+  height: 100%;
+}
+
+.titulo {
+  font-family: var(--fonte-titulo);
+  font-size: 2rem;
+}
